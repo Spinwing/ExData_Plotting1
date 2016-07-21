@@ -1,3 +1,9 @@
+# Exploratory Data Analysis, Johns Hopkins University on Coursera
+# Peer Graded Assignment: Course Project 1
+# 
+# Author: spinwing
+# date created: 2016-07-21
+
 library(sqldf)
 
 # loads the data from the xtx
